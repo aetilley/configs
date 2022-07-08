@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/aetilley/dev/z3_source/build/shell'
+let g:netrw_dirhist_2='/Users/aetilley/dev/ocaml/Harrison'
+let g:netrw_dirhist_3='/etc'
+let g:netrw_dirhist_4='/Users/aetilley/Dropbox/PersonalDrop/DropDev/ocaml/Harrison'
+let g:netrw_dirhist_5='/Users/aetilley/Dropbox/PersonalDrop/DropDev/configs/.git'
